@@ -1,0 +1,7 @@
+Transaction_ID,Category,Revenue,Tax,Net Sales
+103,Clothing,450,68 $,383 $
+101,Electronics,1500,225 $,"1,275 $"
+101,Electronics,1500,,
+104,Electronics,1200,180 $,"1,020 $"
+102,Furniture,800,120 $,680 $
+105,Furniture,150,23 $,128 $
